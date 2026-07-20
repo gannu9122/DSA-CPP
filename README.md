@@ -30,4 +30,12 @@ This repository contains my LeetCode solutions in C++.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/gannu9122/DSA-CPP/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/gannu9122/DSA-CPP/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/gannu9122/DSA-CPP/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
